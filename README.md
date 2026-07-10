@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dibya-19/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dibya-19/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/dibya-19/LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/dibya-19/LeetCode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
