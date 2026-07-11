@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dibya-19/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/dibya-19/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dibya-19/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dibya-19/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/dibya-19/LeetCode/tree/master/0704-binary-search) |
