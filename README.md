@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dibya-19/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/dibya-19/LeetCode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/dibya-19/LeetCode/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dibya-19/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/dibya-19/LeetCode/tree/master/0860-lemonade-change) |
 ## Database
 |  |
 | ------- |
