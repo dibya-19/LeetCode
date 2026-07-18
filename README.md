@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dibya-19/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dibya-19/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dibya-19/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/dibya-19/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
