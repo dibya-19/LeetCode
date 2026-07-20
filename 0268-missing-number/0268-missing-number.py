@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        expected = (n *(n+1))//2
-        return expected - sum(nums)
+        suma = (n*(n+1))//2
+
+        return suma-sum(nums)
         
