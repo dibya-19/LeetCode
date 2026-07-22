@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dibya-19/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/dibya-19/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/dibya-19/LeetCode/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dibya-19/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dibya-19/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
