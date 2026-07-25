@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dibya-19/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/dibya-19/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dibya-19/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dibya-19/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dibya-19/LeetCode/tree/master/0217-contains-duplicate) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dibya-19/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dibya-19/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/dibya-19/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dibya-19/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/dibya-19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dibya-19/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dibya-19/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/dibya-19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dibya-19/LeetCode/tree/master/0242-valid-anagram) |
