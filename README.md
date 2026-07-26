@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dibya-19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dibya-19/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dibya-19/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dibya-19/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/dibya-19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dibya-19/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dibya-19/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dibya-19/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dibya-19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dibya-19/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dibya-19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dibya-19/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
