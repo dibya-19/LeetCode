@@ -4,16 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        freq = {}
+        ans = 0
         for num in nums:
-            freq[num] = freq.get(num,0) + 1
-        for num,count in freq.items():
-            if count == 1:
-                return num
+            ans ^= num
 
-
-
-            
-
-
-        
+        return ans
