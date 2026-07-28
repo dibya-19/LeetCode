@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dibya-19/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dibya-19/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dibya-19/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dibya-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dibya-19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/dibya-19/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/dibya-19/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dibya-19/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dibya-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/dibya-19/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dibya-19/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dibya-19/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/dibya-19/LeetCode/tree/master/0860-lemonade-change) |
 ## Database
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dibya-19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dibya-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dibya-19/LeetCode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dibya-19/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dibya-19/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dibya-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/dibya-19/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/dibya-19/LeetCode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
