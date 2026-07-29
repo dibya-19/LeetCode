@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dibya-19/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/dibya-19/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dibya-19/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dibya-19/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dibya-19/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dibya-19/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dibya-19/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dibya-19/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/dibya-19/LeetCode/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
