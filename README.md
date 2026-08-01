@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dibya-19/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/dibya-19/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/dibya-19/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/dibya-19/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dibya-19/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/dibya-19/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dibya-19/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dibya-19/LeetCode/tree/master/0242-valid-anagram) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dibya-19/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/dibya-19/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dibya-19/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dibya-19/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -270,10 +273,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dibya-19/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dibya-19/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/dibya-19/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/dibya-19/LeetCode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/dibya-19/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dibya-19/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dibya-19/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dibya-19/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
