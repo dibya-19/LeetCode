@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dibya-19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/dibya-19/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/dibya-19/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dibya-19/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dibya-19/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dibya-19/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dibya-19/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dibya-19/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 ## Counting Sort
 |  |
