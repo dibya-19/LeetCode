@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dibya-19/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dibya-19/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dibya-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/dibya-19/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dibya-19/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/dibya-19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/dibya-19/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/dibya-19/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/dibya-19/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dibya-19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dibya-19/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/dibya-19/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/dibya-19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dibya-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dibya-19/LeetCode/tree/master/0567-permutation-in-string) |
