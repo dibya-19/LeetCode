@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dibya-19/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dibya-19/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dibya-19/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/dibya-19/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dibya-19/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/dibya-19/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dibya-19/LeetCode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/dibya-19/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dibya-19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dibya-19/LeetCode/tree/master/0242-valid-anagram) |
