@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dibya-19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dibya-19/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dibya-19/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dibya-19/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dibya-19/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dibya-19/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dibya-19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dibya-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dibya-19/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dibya-19/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/dibya-19/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dibya-19/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
